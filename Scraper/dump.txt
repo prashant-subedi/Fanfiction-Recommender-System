@@ -1,0 +1,468 @@
+{'author': ['sky full of song'],
+ 'chapters_count': ['1'],
+ 'fanfic_name': ['Those Heavy Days'],
+ 'language': ['English'],
+ 'main_characers': ['Sirius B., James P., Lily Evans P., Severus S.</div>', ''],
+ 'publish_date': ['1541311684'],
+ 'rating': ['T'],
+ 'summary': ['<div class="z-indent z-padtop">This is a short excerpt from a '
+             "larger story I've been playing around with in my head. This is "
+             'set in the Marauders 5th year and would end when they finish '
+             'their education at Hogwarts. Trying to stay as close to canon as '
+             'possible.<div class="z-padtop2 xgray">Rated: T - English - '
+             'Chapters: 1 - Words: 1,008 - Published: <span '
+             'data-xutime="1541311684">6m</span> - Sirius B., James P., Lily '
+             'Evans P., Severus S.</div></div>'],
+ 'word_count': ['1,008']}
+{'author': ['lSilverFoxl'],
+ 'chapters_count': ['1'],
+ 'fanfic_name': ['Adventure Calls For Me'],
+ 'fav_count': ['2'],
+ 'follow_count': ['3'],
+ 'genere': ['Fantasy'],
+ 'language': ['English'],
+ 'main_characers': ['Harry P., Ron W., Hermione G., Draco M.</div>', ''],
+ 'publish_date': ['1539693077'],
+ 'rating': ['T'],
+ 'review_count': ['2'],
+ 'summary': ['<div class="z-indent z-padtop">Summary: Medieval Fantasy AU '
+             'Harry Potter, a well-known mage, is a loner. Then he comes in '
+             'contact with a brave warrior with blazing red hair and a ranger '
+             'with the sharpest mind. However, Harry is being hunted and '
+             'together they must save the land of Hogwarts from the tyrant, '
+             'Dark Lord Voldemort, from taking over. (Note: No Pairings '
+             'decided as of yet!)<div class="z-padtop2 xgray">Rated: T - '
+             'English - Fantasy/Adventure - Chapters: 1 - Words: 4,361 - '
+             'Reviews: 2 - Favs: 2 - Follows: 3 - Published: <span '
+             'data-xutime="1539693077">10/16</span> - Harry P., Ron W., '
+             'Hermione G., Draco M.</div></div>'],
+ 'word_count': ['4,361']}
+{'author': ['serenevil45'],
+ 'chapters_count': ['2'],
+ 'fanfic_name': ['Through a Glass Darkly'],
+ 'fav_count': ['12'],
+ 'follow_count': ['10'],
+ 'language': ['English'],
+ 'main_characers': ['Sirius B., Severus S., Eileen P., Tobias S.</div>', ''],
+ 'publish_date': ['1426382783'],
+ 'rating': ['T'],
+ 'review_count': ['3'],
+ 'summary': ['<div class="z-indent z-padtop">The spaces between. Drabbles of a '
+             'female Snape nature.<div class="z-padtop2 xgray">Rated: T - '
+             'English - Chapters: 2 - Words: 7,461 - Reviews: 3 - Favs: 12 - '
+             'Follows: 10 - Updated: <span data-xutime="1541311022">17m</span> '
+             '- Published: <span data-xutime="1426382783">3/14/2015</span> - '
+             'Sirius B., Severus S., Eileen P., Tobias S.</div></div>'],
+ 'update_date': ['1541311022'],
+ 'word_count': ['7,461']}
+{'author': ['LittleSixx'],
+ 'chapters_count': ['1'],
+ 'completion_status': ['Complete'],
+ 'fanfic_name': ['Pureblood Pity Party'],
+ 'genere': ['Friendship', 'Hurt/Comfort'],
+ 'language': ['English'],
+ 'main_characers': ['Draco M., Pansy P., Blaise Z.', ''],
+ 'publish_date': ['1541310938'],
+ 'rating': ['T'],
+ 'summary': ['<div class="z-indent z-padtop">Hermione has just told Draco that '
+             "they're having a child together, and he isn't taking it well. "
+             '(Coda fic for "Are You My Mother.")<div class="z-padtop2 '
+             'xgray">Rated: T - English - Friendship/Hurt/Comfort - Chapters: '
+             '1 - Words: 2,851 - Published: <span '
+             'data-xutime="1541310938">19m</span> - Draco M., Pansy P., Blaise '
+             'Z. - Complete</div></div>'],
+ 'word_count': ['2,851']}
+{'author': ['starspangledpumpkin'],
+ 'chapters_count': ['1'],
+ 'completion_status': ['Complete'],
+ 'fanfic_name': ['Home at Last'],
+ 'genere': ['Drama', 'Family'],
+ 'language': ['English'],
+ 'main_characers': ['Harry P., Cedric D.', ''],
+ 'publish_date': ['1541310550'],
+ 'rating': ['K'],
+ 'summary': ['<div class="z-indent z-padtop">Harry feels the weight of '
+             'rejection after unknowingly revealing himself as a parselmouth. '
+             'An unexpected friend comes along and stands with him while he '
+             'makes the greatest change of his life.<div class="z-padtop2 '
+             'xgray">Rated: K - English - Drama/Family - Chapters: 1 - Words: '
+             '1,450 - Published: <span data-xutime="1541310550">25m</span> - '
+             'Harry P., Cedric D. - Complete</div></div>'],
+ 'word_count': ['1,450']}
+{'author': ['Hada'],
+ 'chapters_count': ['1'],
+ 'completion_status': ['Complete'],
+ 'fanfic_name': ['Nights alone'],
+ 'genere': ['Romance'],
+ 'language': ['English'],
+ 'main_characers': ['Hermione G., Severus S.', ''],
+ 'publish_date': ['1541310500'],
+ 'rating': ['K'],
+ 'summary': ['<div class="z-indent z-padtop">Nights had always been her '
+             'favorite.<div class="z-padtop2 xgray">Rated: K - English - '
+             'Romance - Chapters: 1 - Words: 265 - Published: <span '
+             'data-xutime="1541310500">26m</span> - Hermione G., Severus S. - '
+             'Complete</div></div>'],
+ 'word_count': ['265']}
+{'author': ['Phoenixsword24'],
+ 'chapters_count': ['12'],
+ 'fanfic_name': ['Welcome to Hogwarts'],
+ 'fav_count': ['3'],
+ 'follow_count': ['5'],
+ 'genere': ['Friendship'],
+ 'language': ['English'],
+ 'publish_date': ['1472401102'],
+ 'rating': ['K'],
+ 'review_count': ['11'],
+ 'summary': ['<div class="z-indent z-padtop">I always thought that magic was '
+             "just in stories and movies. But now I know it's real. And I'M a "
+             "wizard! I'm going to my first year at Hogwarts school of "
+             'witchcraft and wizardry. And me and my new friends are in for '
+             'more than we bargained for.<div class="z-padtop2 xgray">Rated: '
+             'K+ - English - Adventure/Friendship - Chapters: 12 - Words: '
+             '26,236 - Reviews: 11 - Favs: 3 - Follows: 5 - Updated: <span '
+             'data-xutime="1541308004">1h</span> - Published: <span '
+             'data-xutime="1472401102">8/28/2016</span></div></div>'],
+ 'update_date': ['1541308004'],
+ 'word_count': ['26,236']}
+{'author': ['AniMe2319'],
+ 'chapters_count': ['1'],
+ 'fanfic_name': ['Darklight'],
+ 'fav_count': ['1'],
+ 'genere': ['Family', 'Romance'],
+ 'language': ['English'],
+ 'main_characers': ['Harry P., Bill W., Charlie W., OC</div>', ''],
+ 'publish_date': ['1541306662'],
+ 'rating': ['T'],
+ 'summary': ['<div class="z-indent z-padtop">She was born into a time of war, '
+             'into a family destined to stand in the very eye of the storm. '
+             'Will she be lost to the darkness or blaze a new trail forward? '
+             'Semi-SI/OC Reincarnation<div class="z-padtop2 xgray">Rated: T - '
+             'English - Family/Romance - Chapters: 1 - Words: 874 - Favs: 1 - '
+             'Published: <span data-xutime="1541306662">1h</span> - Harry P., '
+             'Bill W., Charlie W., OC</div></div>'],
+ 'word_count': ['874']}
+{'author': ['Lulototo'],
+ 'fanfic_name': ['Historia de Harry y Hermione 1: El comienzo de todo'],
+ 'main_characers': ['Spanish', ''],
+ 'rating': ['K'],
+ 'summary': ['<div class="z-indent z-padtop">Harry conoce a una niña en un '
+             'parque , el niño no puede sacársela de sus pensamientos. ¿Ella '
+             'sentirá lo mismo que el? ¿o lo ignorará? , ¿se la volverá a '
+             'encontrar?<div class="z-padtop2 xgray">Rated: K - Spanish - '
+             'Romance/Adventure - Chapters: 1 - Words: 887 - Published: <span '
+             'data-xutime="1541306610">1h</span> - Harry P., Hermione G., '
+             'Voldemort, Albus D.</div></div>']}
+{'author': ['The Deathly Erised'],
+ 'chapters_count': ['1'],
+ 'fanfic_name': ["Dear Harry: All the things I shouldn't have said"],
+ 'fav_count': ['2'],
+ 'follow_count': ['1'],
+ 'genere': ['Friendship', 'Family'],
+ 'language': ['English'],
+ 'publish_date': ['1541306426'],
+ 'rating': ['K'],
+ 'review_count': ['2'],
+ 'summary': ['<div class="z-indent z-padtop">A letter can change a persons '
+             "entire view on something. More specifically, Harry Potter's view "
+             'on the Dursley Family<div class="z-padtop2 xgray">Rated: K - '
+             'English - Friendship/Family - Chapters: 1 - Words: 460 - '
+             'Reviews: 2 - Favs: 2 - Follows: 1 - Published: <span '
+             'data-xutime="1541306426">1h</span></div></div>'],
+ 'word_count': ['460']}
+{'author': ['TheOptimisticRover'],
+ 'chapters_count': ['12'],
+ 'fanfic_name': ['The Potter Twins: Year 1'],
+ 'fav_count': ['20'],
+ 'follow_count': ['34'],
+ 'language': ['English'],
+ 'main_characers': ['Harry P., Remus L., OC</div>', ''],
+ 'publish_date': ['1535975497'],
+ 'rating': ['K'],
+ 'review_count': ['16'],
+ 'summary': ['<div class="z-indent z-padtop">Four years after first '
+             'discovering the wizarding world. Harry and Kate finally make '
+             'their journey to Hogwarts. Magic, mysteries, friendships and '
+             'rivalries await, along with a secret hidden within the bowels of '
+             'the school that could thrust the twins and their new friends '
+             'into grave danger. Sequel to The Potter Twins: Pre-Hogwarts, '
+             'read that story first! On HIATUS till Jan 2019<div '
+             'class="z-padtop2 xgray">Rated: K+ - English - Chapters: 12 - '
+             'Words: 65,502 - Reviews: 16 - Favs: 20 - Follows: 34 - Updated: '
+             '<span data-xutime="1541306109">1h</span> - Published: <span '
+             'data-xutime="1535975497">9/3</span> - Harry P., Remus L., '
+             'OC</div></div>'],
+ 'update_date': ['1541306109'],
+ 'word_count': ['65,502']}
+{'author': ['TazoClarity'],
+ 'chapters_count': ['14'],
+ 'fanfic_name': ['I See Not Your Face'],
+ 'fav_count': ['137'],
+ 'follow_count': ['217'],
+ 'genere': ['Supernatural', 'Family'],
+ 'language': ['English'],
+ 'main_characers': ['Harry P., Sirius B., James P., Lily Evans P.</div>', ''],
+ 'publish_date': ['1394664019'],
+ 'rating': ['T'],
+ 'review_count': ['89'],
+ 'summary': ['<div class="z-indent z-padtop">Potter Family AU with plenty of '
+             'complication. Harry gets a little more than he bargained for '
+             'when he looks into the Mirror of Erised. His desire for his '
+             "parents might be so deep that he's fallen into a place in the "
+             'past where his parents are alive and whole…and have no idea who '
+             "he is. Mostly takes place Marauder's Era, but Harry's right in "
+             'the thick of it.<div class="z-padtop2 xgray">Rated: T - English '
+             '- Supernatural/Family - Chapters: 14 - Words: 46,819 - Reviews: '
+             '89 - Favs: 137 - Follows: 217 - Updated: <span '
+             'data-xutime="1541305833">1h</span> - Published: <span '
+             'data-xutime="1394664019">3/12/2014</span> - Harry P., Sirius B., '
+             'James P., Lily Evans P.</div></div>'],
+ 'update_date': ['1541305833'],
+ 'word_count': ['46,819']}
+{'author': ['thedoctor127'],
+ 'chapters_count': ['1'],
+ 'fanfic_name': ['Here I am Daddy: A Time Travel Adventure'],
+ 'follow_count': ['3'],
+ 'genere': ['Family'],
+ 'language': ['English'],
+ 'main_characers': ['Harry P., Lily Luna P.</div>', ''],
+ 'publish_date': ['1541305819'],
+ 'rating': ['T'],
+ 'review_count': ['1'],
+ 'summary': ['<div class="z-indent z-padtop">Three year old Lily Luna Potter '
+             "accidentally travels in time to the summer before her dad's "
+             'fifth year<div class="z-padtop2 xgray">Rated: T - English - '
+             'Family - Chapters: 1 - Words: 1,131 - Reviews: 1 - Follows: 3 - '
+             'Published: <span data-xutime="1541305819">1h</span> - Harry P., '
+             'Lily Luna P.</div></div>'],
+ 'word_count': ['1,131']}
+{'author': ['Spica M'],
+ 'fanfic_name': ['Madness of Dukes of Europe'],
+ 'main_characers': ['Spanish', ''],
+ 'rating': ['K'],
+ 'summary': ['<div class="z-indent z-padtop">Los hombres que obtuvieron el '
+             'poder de las manos más oscuras, traen países y los alían a ellos '
+             'uno por uno. En la oscuridad de la que salieron con solo '
+             'ambiciones, están llenándolo con piezas para el Imperio. '
+             'Pertenece al Universo de Capriccio Farse<div class="z-padtop2 '
+             'xgray">Rated: K+ - Spanish - Mystery - Chapters: 1 - Words: '
+             '1,237 - Reviews: 1 - Favs: 1 - Published: <span '
+             'data-xutime="1541305755">1h</span> - Percy W., Fleur D., Tom R. '
+             'Jr. - Complete</div></div>']}
+{'author': ['nebula2'],
+ 'chapters_count': ['19'],
+ 'fanfic_name': ['Aftermath'],
+ 'fav_count': ['64'],
+ 'follow_count': ['91'],
+ 'genere': ['Family', 'Hurt/Comfort'],
+ 'language': ['English'],
+ 'main_characers': ['George W., Percy W., Bill W.</div>', ''],
+ 'publish_date': ['1367359183'],
+ 'rating': ['T'],
+ 'review_count': ['57'],
+ 'summary': ['<div class="z-indent z-padtop">For those who survived The Second '
+             'Wizarding World they must find a way to pick up the pieces and '
+             'move on. For the Weasley family that means recovering from the '
+             'loss of a beloved member. For some this is harder to do then '
+             'others but when one brother falters can the others show him that '
+             'he is indeed loved and help him find meaning to his life '
+             'again.<div class="z-padtop2 xgray">Rated: T - English - '
+             'Family/Hurt/Comfort - Chapters: 19 - Words: 58,048 - Reviews: 57 '
+             '- Favs: 64 - Follows: 91 - Updated: <span '
+             'data-xutime="1541305429">1h</span> - Published: <span '
+             'data-xutime="1367359183">4/30/2013</span> - George W., Percy W., '
+             'Bill W.</div></div>'],
+ 'update_date': ['1541305429'],
+ 'word_count': ['58,048']}
+{'author': ['Alice Brennan'],
+ 'chapters_count': ['2'],
+ 'fanfic_name': ['In the Dark'],
+ 'fav_count': ['1'],
+ 'follow_count': ['1'],
+ 'genere': ['Romance', 'Drama'],
+ 'language': ['English'],
+ 'main_characers': ['Severus S., OC</div>', ''],
+ 'publish_date': ['1540614840'],
+ 'rating': ['T'],
+ 'review_count': ['1'],
+ 'summary': ['<div class="z-indent z-padtop">Inspired by: My songs know what '
+             'you did in the dark by Fall Out Boy. A constellation of tears on '
+             'your lashes/Burn everything you love, then burn the ashes/In the '
+             'end everything collides/My childhood spat back out the monster '
+             'that you see AU: Dumbledore faked his death, but Severus Snape '
+             'continues to be persecuted for his past.<div class="z-padtop2 '
+             'xgray">Rated: T - English - Romance/Drama - Chapters: 2 - Words: '
+             '3,744 - Reviews: 1 - Favs: 1 - Follows: 1 - Updated: <span '
+             'data-xutime="1541305373">1h</span> - Published: <span '
+             'data-xutime="1540614840">10/26</span> - Severus S., '
+             'OC</div></div>'],
+ 'update_date': ['1541305373'],
+ 'word_count': ['3,744']}
+{'author': ['Liz364'],
+ 'chapters_count': ['3'],
+ 'fanfic_name': ['Nargles'],
+ 'fav_count': ['3'],
+ 'follow_count': ['5'],
+ 'genere': ['Romance', 'Mystery'],
+ 'language': ['English'],
+ 'publish_date': ['1539141155'],
+ 'rating': ['T'],
+ 'review_count': ['1'],
+ 'summary': ['<div class="z-indent z-padtop">Hermione and Draco are partnered '
+             'together to work on the newest Ministry of Magic high-profile '
+             'case. As the mysterious murderer makes the Wizarding World an '
+             'increasingly unsafe place to be in, the two must navigate their '
+             'growing feelings for one another. Dramione. Blinny Bromance.<div '
+             'class="z-padtop2 xgray">Rated: T - English - Romance/Mystery - '
+             'Chapters: 3 - Words: 5,458 - Reviews: 1 - Favs: 3 - Follows: 5 - '
+             'Updated: <span data-xutime="1541304842">2h</span> - Published: '
+             '<span data-xutime="1539141155">10/9</span></div></div>'],
+ 'update_date': ['1541304842'],
+ 'word_count': ['5,458']}
+{'author': ['Aurora Nightstar'],
+ 'chapters_count': ['26'],
+ 'fanfic_name': ['Rivals'],
+ 'fav_count': ['237'],
+ 'follow_count': ['388'],
+ 'language': ['English'],
+ 'main_characers': ['[Harry P., Daphne G.] Draco M.</div>', ''],
+ 'publish_date': ['1509851071'],
+ 'rating': ['T'],
+ 'review_count': ['286'],
+ 'summary': ['<div class="z-indent z-padtop">Harry\'s friendships become '
+             'strained when he is selected for the tri-wizard tournament. '
+             'Matters are made even worse when he and Malfoy both compete for '
+             'the same girl.<div class="z-padtop2 xgray">Rated: T - English - '
+             'Chapters: 26 - Words: 75,444 - Reviews: 286 - Favs: 237 - '
+             'Follows: 388 - Updated: <span data-xutime="1541304183">2h</span> '
+             '- Published: <span data-xutime="1509851071">11/4/2017</span> - '
+             '[Harry P., Daphne G.] Draco M.</div></div>'],
+ 'update_date': ['1541304183'],
+ 'word_count': ['75,444']}
+{'author': ['TheSurprisedSlytherin'],
+ 'chapters_count': ['29'],
+ 'fanfic_name': ['The Sides That Bind'],
+ 'fav_count': ['83'],
+ 'follow_count': ['138'],
+ 'genere': ['Romance', 'Drama'],
+ 'language': ['English'],
+ 'main_characers': ['[Draco M., OC] Harry P., Blaise Z.</div>', ''],
+ 'publish_date': ['1441944050'],
+ 'rating': ['T'],
+ 'review_count': ['52'],
+ 'summary': ['<div class="z-indent z-padtop">As far as Heidi Zabini\'s '
+             'concerned, Draco Malfoy is everything wrong with the Pureblooded '
+             'elite that her surname pushed her into. But the summer has been '
+             "about as kind to Malfoy as he's been to her, and the school year "
+             "seems no better. Little by little, Heidi can't help but try to "
+             "keep him afloat. However, there's that minor matter of reversing "
+             '16 years of damage between them...<div class="z-padtop2 '
+             'xgray">Rated: T - English - Romance/Drama - Chapters: 29 - '
+             'Words: 105,856 - Reviews: 52 - Favs: 83 - Follows: 138 - '
+             'Updated: <span data-xutime="1541303227">2h</span> - Published: '
+             '<span data-xutime="1441944050">9/10/2015</span> - [Draco M., OC] '
+             'Harry P., Blaise Z.</div></div>'],
+ 'update_date': ['1541303227'],
+ 'word_count': ['105,856']}
+{'author': ['oniforever'],
+ 'chapters_count': ['1'],
+ 'fanfic_name': ['The Thing About Parrots'],
+ 'fav_count': ['2'],
+ 'follow_count': ['2'],
+ 'genere': ['Humor', 'Friendship'],
+ 'language': ['English'],
+ 'publish_date': ['1541302353'],
+ 'rating': ['T'],
+ 'summary': ['<div class="z-indent z-padtop">A crack-ish fic about a Tom '
+             'Riddle who had no idea that his mother was a witch, but assumed '
+             'she was from the circus as Mrs. Cole had said. There he learns '
+             'of prejudice, but instead of embracing it and cultivating a '
+             'supermacist, muggle-hating persona, he goes the opposite '
+             'direction after being called mudblood one too many times and '
+             'deciding to roll with it. Written for NaNoWriMo2018<div '
+             'class="z-padtop2 xgray">Rated: T - English - Humor/Friendship - '
+             'Chapters: 1 - Words: 4,857 - Favs: 2 - Follows: 2 - Published: '
+             '<span data-xutime="1541302353">2h</span></div></div>'],
+ 'word_count': ['4,857']}
+{'author': ['Twilgain'],
+ 'chapters_count': ['1'],
+ 'fanfic_name': ["Slytherin in Harry's Shadow"],
+ 'fav_count': ['1'],
+ 'follow_count': ['1'],
+ 'genere': ['Fantasy', 'Romance'],
+ 'language': ['English'],
+ 'publish_date': ['1541301782'],
+ 'rating': ['T'],
+ 'summary': ['<div class="z-indent z-padtop">A Slytherin girl tries to get '
+             "through her years at Hogwarts while living in Harry Potter's "
+             "shadow and with the repercussions of other Slytherin's "
+             'actions.<div class="z-padtop2 xgray">Rated: T - English - '
+             'Fantasy/Romance - Chapters: 1 - Words: 943 - Favs: 1 - Follows: '
+             '1 - Published: <span '
+             'data-xutime="1541301782">2h</span></div></div>'],
+ 'word_count': ['943']}
+{'author': ['HanaJane'],
+ 'fanfic_name': ['Inevitable'],
+ 'main_characers': ['Spanish', ''],
+ 'rating': ['K'],
+ 'summary': ['<div class="z-indent z-padtop">La curiosidad es horrible y sus '
+             'consecuencias aun peor. Severus Snape no puede decirlo '
+             'mejor.<div class="z-padtop2 xgray">Rated: K - Spanish - '
+             'Horror/Tragedy - Chapters: 1 - Words: 400 - Published: <span '
+             'data-xutime="1541300534">3h</span> - Severus S., Remus L. - '
+             'Complete</div></div>']}
+{'author': ['BillWeasleyfan219610'],
+ 'chapters_count': ['6'],
+ 'fanfic_name': ['Our Little Puppy'],
+ 'fav_count': ['4'],
+ 'follow_count': ['5'],
+ 'genere': ['Family', 'Friendship'],
+ 'language': ['English'],
+ 'main_characers': ['[Sirius B., Remus L.] [Percy W., OC]</div>', ''],
+ 'publish_date': ['1540136151'],
+ 'rating': ['T'],
+ 'review_count': ['4'],
+ 'summary': ['<div class="z-indent z-padtop">As Remus Lupin and Sirius Black '
+             'are content in their newfound joy they never expected to be able '
+             'to have a child. Now as Remus and Sirius expect their one and '
+             'only child, Remus is afraid of the lycanthropy being passed down '
+             'and wanting to protect her. But when he notices a crush his '
+             "little girl has developed on a certain Weasley he's certain "
+             'things will turn out okay.<div class="z-padtop2 xgray">Rated: T '
+             '- English - Family/Friendship - Chapters: 6 - Words: 5,312 - '
+             'Reviews: 4 - Favs: 4 - Follows: 5 - Updated: <span '
+             'data-xutime="1541300208">3h</span> - Published: <span '
+             'data-xutime="1540136151">10/21</span> - [Sirius B., Remus L.] '
+             '[Percy W., OC]</div></div>'],
+ 'update_date': ['1541300208'],
+ 'word_count': ['5,312']}
+{'author': ['Liesel Everdeen.freya-uchiha'],
+ 'fanfic_name': ['Calamares, travesuras y venganzas'],
+ 'main_characers': ['Spanish', ''],
+ 'rating': ['K'],
+ 'summary': ['<div class="z-indent z-padtop">A Harry el calamar lo odiaba y no '
+             'sabía porqué.<div class="z-padtop2 xgray">Rated: K - Spanish - '
+             'Friendship - Chapters: 1 - Words: 1,500 - Reviews: 2 - Favs: 2 - '
+             'Published: <span data-xutime="1541300066">3h</span> - Draco M. - '
+             'Complete</div></div>']}
+{'author': ['Cheeky Slytherin Lass'],
+ 'chapters_count': ['11'],
+ 'completion_status': ['Complete'],
+ 'fanfic_name': ['A Strange Kind of Beautiful'],
+ 'fav_count': ['4'],
+ 'follow_count': ['4'],
+ 'genere': ['Romance'],
+ 'language': ['English'],
+ 'main_characers': ['[Draco M., Ginny W.] [Arthur W., Molly W.]', ''],
+ 'publish_date': ['1538696411'],
+ 'rating': ['T'],
+ 'review_count': ['1'],
+ 'summary': ['<div class="z-indent z-padtop">100 drabbles about love.::2. '
+             'Arthur fixes Molly an unusual breakfast.<div class="z-padtop2 '
+             'xgray">Rated: T - English - Romance - Chapters: 11 - Words: '
+             '5,555 - Reviews: 1 - Favs: 4 - Follows: 4 - Updated: <span '
+             'data-xutime="1541299754">3h</span> - Published: <span '
+             'data-xutime="1538696411">10/4</span> - [Draco M., Ginny W.] '
+             '[Arthur W., Molly W.] - Complete</div></div>'],
+ 'update_date': ['1541299754'],
+ 'word_count': ['5,555']}
