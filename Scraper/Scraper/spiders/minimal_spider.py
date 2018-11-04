@@ -28,7 +28,7 @@ class MinimalSpider(scrapy.Spider):
     
     def start_requests(self):
         urls = [
-            'https://www.fanfiction.net/book/Harry-Potter/?&srt=1&lan=2&r=103&p=1876'
+            'https://www.fanfiction.net/book/Harry-Potter/'
         ]
         for url in urls:
             yield scrapy.Request(url=url,callback=self.parse)
@@ -40,7 +40,7 @@ class MinimalSpider(scrapy.Spider):
             item_loader   = MinimalItemLoader(MinimalScraperItem(),story)
             fanfic_name,author = story.css("a::text").extract()[0:2]
             fanfic_id = story.xpath("""a[@class='stitle']/@href""").re("s/(\d+)")
-            author_id = story.xpath("""a/@href""").re("u/(\d)+")
+            author_id = story.xpath("""a/@href""").re("u/(\d+)")
 
             item_loader.add_value("fanfic_id",fanfic_id)
             item_loader.add_value("author_id",author_id)

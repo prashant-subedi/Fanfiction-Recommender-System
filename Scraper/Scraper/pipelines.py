@@ -5,14 +5,15 @@
 # Don't forget to add your pipeline to the ITEM_PIPELINES setting
 # See: https://doc.scrapy.org/en/latest/topics/item-pipeline.html
 
+from pymongo import MongoClient
 
-class MinimalScraperPipeline(object):
+class MinimalScraperMongoPipeline(object):
     def open_spider(self,spider):
-        pass
+        self.client = MongoClient()
+        self.db = self.client.fanfiction_scrape
 
     def close_spider(self,spider):
-        pass
+        self.client.close()
 
     def process_item(self, item, spider):
-        print(item)
-        return item
+        self.db.minimal.update({'fanfic_id':item['fanfic_id']},dict(item),upsert=True)
