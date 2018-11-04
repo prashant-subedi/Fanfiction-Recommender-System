@@ -23,5 +23,5 @@ class MinimalScraperItem(scrapy.Item):
     follow_count = scrapy.Field()
     update_date = scrapy.Field()
     publish_date = scrapy.Field()
-    main_characers = scrapy.Field()   
+    main_characters = scrapy.Field()   
     completion_status = scrapy.Field()

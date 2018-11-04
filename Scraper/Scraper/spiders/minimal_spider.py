@@ -3,6 +3,7 @@ import re
 from collections import OrderedDict
 from Scraper.items import MinimalScraperItem
 from Scraper.itemloader import MinimalItemLoader
+from w3lib.html import remove_tags
 
 NUMBER = "\d+(?:,\d{3})*"
 
@@ -11,7 +12,7 @@ class MinimalSpider(scrapy.Spider):
     name = "minimal"
     status_regex = OrderedDict()
     status_regex["rating"]=re.compile(r"Rated:\s*(K|K+|T|M)")
-    status_regex["language"]=re.compile(r"(Afrikaans|Bahasa Indonesia|Bahasa Melayu|Dansk|Deutsch|Eesti|English|Español|Esperanto|Filipino|Français|Italiano|Język polski|LINGUA LATINA|Magyar|Nederlands|Norsk|Português|Română|Shqip|Suomi|Svenska|Tiếng Việt|Türkçe|čeština|Русский|עברית|देवनागरी|ਪੰਜਾਬੀ|ภาษาไทย|中文|日本語)")
+    status_regex["language"]=re.compile(r"(\w+)")
     status_regex["genere"]=re.compile(r"(Angst|Crime|Drama|Family|Fantasy|Friendship|General|Horror|Humor|Hurt/Comfort|Mystery|Parody|Poetry|Romance|Sci-Fi|Spiritual|Supernatural|Suspense|Western)")
     status_regex["chapters_count"]=re.compile(r"Chapters:\s*(%s)"%NUMBER)
     status_regex["word_count"]=re.compile(r"Words:\s*(%s)"%NUMBER)
@@ -20,8 +21,8 @@ class MinimalSpider(scrapy.Spider):
     status_regex["follow_count"]=re.compile(r"Follows:\s*(%s)"%NUMBER)
     status_regex["update_date"]=re.compile(r"Updated: <span data-xutime=\"(\d+)\">")
     status_regex["publish_date"]=re.compile(r"Published: <span data-xutime=\"(\d+)\">")
-    status_regex["main_characers"]=re.compile("(?!Complete).*")
-    status_regex["completion_status"]=re.compile("Complete")
+    status_regex["main_characters"]=re.compile("(?!Completed).*")
+    status_regex["completion_status"]=re.compile("Completeg")
     
     def start_requests(self):
         urls = [
@@ -57,4 +58,6 @@ class MinimalSpider(scrapy.Spider):
                 
 
             yield item_loader.load_item()
-                    
+        next = response.xpath("""//center[@style="margin-top:5px;margin-bottom:5px;"]//a[contains(.,'Next')]/@href""").get() 
+        if next is not None:
+            yield response.follow(next,callback=self.parse)
