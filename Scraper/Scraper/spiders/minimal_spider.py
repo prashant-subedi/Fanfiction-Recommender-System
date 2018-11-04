@@ -10,6 +10,8 @@ NUMBER = "\d+(?:,\d{3})*"
 class MinimalSpider(scrapy.Spider):
 
     name = "minimal"
+    
+    # THE DICT OF REGEX IS NECESSEARY TO PARSE STATUS OF EACH FIC 
     status_regex = OrderedDict()
     status_regex["rating"]=re.compile(r"Rated:\s*(K|K+|T|M)")
     status_regex["language"]=re.compile(r"(\w+)")
@@ -22,11 +24,11 @@ class MinimalSpider(scrapy.Spider):
     status_regex["update_date"]=re.compile(r"Updated: <span data-xutime=\"(\d+)\">")
     status_regex["publish_date"]=re.compile(r"Published: <span data-xutime=\"(\d+)\">")
     status_regex["main_characters"]=re.compile("(?!Completed).*")
-    status_regex["completion_status"]=re.compile("Completeg")
+    status_regex["completion_status"]=re.compile("Complete")
     
     def start_requests(self):
         urls = [
-            'https://www.fanfiction.net/book/Harry-Potter/'
+            'https://www.fanfiction.net/book/Harry-Potter/?&srt=1&lan=2&r=103&p=1876'
         ]
         for url in urls:
             yield scrapy.Request(url=url,callback=self.parse)
@@ -34,12 +36,19 @@ class MinimalSpider(scrapy.Spider):
     def parse(self,response):
         # For each story in the list
         for story in  response.css("div.z-list"):
+
             item_loader   = MinimalItemLoader(MinimalScraperItem(),story)
-            fic_name,author = story.css("a::text").extract()[0:2]
+            fanfic_name,author = story.css("a::text").extract()[0:2]
+            fanfic_id = story.xpath("""a[@class='stitle']/@href""").re("s/(\d+)")
+            author_id = story.xpath("""a/@href""").re("u/(\d)+")
 
-            item_loader.add_value("fanfic_name",fic_name)
+            item_loader.add_value("fanfic_id",fanfic_id)
+            item_loader.add_value("author_id",author_id)
+            item_loader.add_value("fanfic_name",fanfic_name)
             item_loader.add_value("author",author)
-
+            
+            
+         
             item_loader.add_css("summary","div.z-padtop::text")
             status_selector = story.css("div.xgray").get()[len('<div class="z-padtop2 xgray">'):]
             
@@ -58,6 +67,6 @@ class MinimalSpider(scrapy.Spider):
                 
 
             yield item_loader.load_item()
-        next = response.xpath("""//center[@style="margin-top:5px;margin-bottom:5px;"]//a[contains(.,'Next')]/@href""").get() 
+        next = response.xpath("""//center[@style="margin-top:5px;margin-bottom:5px;"]/a[contains(.,'Next')]/@href""").get() 
         if next is not None:
             yield response.follow(next,callback=self.parse)
