@@ -1,0 +1,7 @@
+############################
+# INSERT THE VARIABLES HERE#
+############################
+## Location of the folder where the root of project is stored
+PROJECT_DIR=""
+## Root of your virtual env
+VIRTUALENV_DIR=""

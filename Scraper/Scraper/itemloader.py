@@ -37,15 +37,16 @@ class MinimalItemLoader(ItemLoader):
     def completion_status_in(self,value):
         return [True]
 
-    # HANDING CHARACTERS REQUIRE A LOT OF REGEX
-    def  main_characters_out(self,value):
-        v = remove_tags(value[0])
-        characters = []
-        pairings = self.pairings_regex.findall(v)
-        for pairing in pairings:
-            v = v.replace(pairing,"")
-            characters.extend(self.character_regex.findall(pairing))
+    # HANDING CHARACTERS REQUIRE A LOT OF REGEX 
+    # TODO HANDLE PAIRING
+    # def  main_characters_out(self,value):
+    #     v = remove_tags(value[0])
+    #     characters = []
+    #     pairings = self.pairings_regex.findall(v)
+    #     for pairing in pairings:
+    #         v = v.replace(pairing,"")
+    #         characters.extend(self.character_regex.findall(pairing))
     
-        characters.extend(self.character_regex.findall(v))
+    #     characters.extend(self.character_regex.findall(v))
         
-        return characters
+    #     return characters

@@ -11,6 +11,8 @@
 
 BOT_NAME = 'fanficbot'
 
+LOG_LEVEL = "INFO"
+
 SPIDER_MODULES = ['Scraper.spiders']
 NEWSPIDER_MODULE = 'Scraper.spiders'
 

@@ -6,9 +6,8 @@ from Scraper.itemloader import MinimalItemLoader
 from w3lib.html import remove_tags
 
 NUMBER = "\d+(?:,\d{3})*"
-
+PAGES_COMPLETED = "complted_pagecount.txt"
 class MinimalSpider(scrapy.Spider):
-
     name = "minimal"
     
     # THE DICT OF REGEX IS NECESSEARY TO PARSE STATUS OF EACH FIC 
@@ -27,13 +26,26 @@ class MinimalSpider(scrapy.Spider):
     status_regex["completion_status"]=re.compile("Complete")
     
     def start_requests(self):
-        urls = [
-            'https://www.fanfiction.net/book/Harry-Potter/'
-        ]
+        try:
+            completion_level = open("complted_pagecount.txt")
+            completed_pages = completion_level.read()
+            self.page_count = int(completed_pages)
+            urls = [
+                f'https://www.fanfiction.net/book/Harry-Potter/?&srt=3&r=10&p={completion_level}'
+            ]
+        except FileNotFoundError:
+            urls = [
+                "https://www.fanfiction.net/book/Harry-Potter/?&srt=3&r=10"
+            ]
+            self.page_count = 0
+
+
         for url in urls:
             yield scrapy.Request(url=url,callback=self.parse)
 
     def parse(self,response):
+
+        print(f"Started scraping page {self.page_count} ...........",end="")
         # For each story in the list
         for story in  response.css("div.z-list"):
 
@@ -68,5 +80,10 @@ class MinimalSpider(scrapy.Spider):
 
             yield item_loader.load_item()
         next = response.xpath("""//center[@style="margin-top:5px;margin-bottom:5px;"]/a[contains(.,'Next')]/@href""").get() 
+        print("Completed")
+        self.page_count+=1
+        with open("complted_pagecount.txt","w") as f:
+            f.write(str(self.page_count))
+    
         if next is not None:
             yield response.follow(next,callback=self.parse)

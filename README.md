@@ -7,3 +7,8 @@ PLAN
 * First Task will be to build the scrapper. 
 * Then will build a simple enough website.
 * After this will tryout different alogrithms and compare performances.
+
+
+# Running the spider
+* User start_crawler.sh to run the crawler
+* Remember to create config.sh from config.sh.sample
